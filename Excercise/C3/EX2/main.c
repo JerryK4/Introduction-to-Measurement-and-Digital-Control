@@ -1,3 +1,6 @@
+/*
+2. Sử dụng vi điều khiển kết nối với mạch H-bridge L298, động cơ DC và lập trình điều khiển tốc độ động cơ.
+*/
 #include "stm32f4xx.h"
 void TIM2_PWM_Init(void);
 void Delay_ms(uint32_t ms);
