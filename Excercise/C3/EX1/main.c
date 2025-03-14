@@ -1,3 +1,6 @@
+/*
+1. Thiết kế hệ thống điều khiển cường độ sáng của đèn thích nghi với ánh sáng môi trường.
+*/
 #include "stm32f4xx.h"
 void ADC_Init(void);
 uint16_t ADC_Read(void);
